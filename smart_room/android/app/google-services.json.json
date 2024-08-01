@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "585531291986",
+    "firebase_url": "https://led-1-70768-default-rtdb.firebaseio.com",
+    "project_id": "led-1-70768",
+    "storage_bucket": "led-1-70768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585531291986:android:00e0d9defa1ffb9da2a28b",
+        "android_client_info": {
+          "package_name": "com.example.smart_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjLZqNd0sCV_tZQLe6d_DeKH24ZIqLmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
