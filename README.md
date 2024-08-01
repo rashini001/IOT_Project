@@ -1,2 +1,3 @@
 # IOT_Project
+This is our iot course work project.In this we build smart room automation system using arduino techniques.We can handle this system both manually and atuomatically.Through this application, we can handle fan,light on/off operations, door lock/unlock operations and alos we can light brightenss and can handle fan speed based on the room temparatuer.For that we use firebase and flutter techniques to build this system.Remotly we can handle this system using our samrt room flutter app.And finally we can get daily summery report of light,fan on/off count and door lock/unlock count through this app.
  
